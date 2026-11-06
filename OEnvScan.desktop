@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=OEnvScan
+Comment=.env / environment secret + misconfig scanner — tokens, git exposure, perms, drift
+Exec=OEnvScan
+Icon=/usr/share/icons/Owl.png
+Terminal=true
+Categories=OForensics;
+Keywords=OEnvScan;owlsec;security;secrets;

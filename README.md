@@ -62,4 +62,4 @@ This tool is part of the **OwlSec** suite — a collection of 300+ security and 
 
 ## ©️ License
 
-MIT License — © Khaled S. Haddad
+MIT License — © Khaled.s.Haddad

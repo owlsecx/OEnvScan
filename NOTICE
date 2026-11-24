@@ -1,0 +1,33 @@
+OEnvScan — Copyright (C) 2026 Owlsec LLC
+================================================================
+
+LICENSE
+-------
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+The full licence text is in the LICENSE file in this repository.
+
+SCOPE
+-----
+This licence applies to THIS REPOSITORY ONLY.
+
+Other OwlSec tools are separate, independent programs distributed under
+their own terms. Most of them remain proprietary to Owlsec LLC and their
+source code is not published. Nothing in this licence grants any right
+to those programs.
+
+CONTACT
+-------
+Owlsec LLC — New Mexico, United States
+info@owlsec.org — https://owlsec.org
